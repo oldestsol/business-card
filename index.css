@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+.exgod {
+    width: 150px;
+}
+.card{
+    color: #BEFFC3ff;
+    border: none ;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 10px solid #BEFFC3ff;
+    background: #E87899ff;
+}
+.italic {
+    font-style: italic;
+}
+
+
+$russian-violet: #442E5Fff;
+$rose-pompadour: #E87899ff;
+$mint-green: #69C9F3ff;
+$tea-green: #BEFFC3ff;
+$pale-azure: #69C9F3ff;
